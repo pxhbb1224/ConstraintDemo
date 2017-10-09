@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">ConstraintDemo</string>
+  <string name="invite_friends">邀请好友</string>
+  <string name="reward">奖励中心</string>
+  <string name="invite_info">邀请好友共享免佣</string>
+  <string name="reward_info" >100元待领取</string>
+  <string name="name_test_gone_left">即将变成gone,左边有20dp margin</string>
+  <string name="name_fill_parent">match_parent/0dp然后左右增加20dp margin</string>
+  <string name="name_test_gone_right">左边有一个50dp margin</string>
+</resources>
